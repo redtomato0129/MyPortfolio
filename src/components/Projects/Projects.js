@@ -7,7 +7,7 @@ import emotion from "../../Assets/Projects/Aryabhatta Academy.png";
 import editor from "../../Assets/Projects/editor.png";
 import chatify from "../../Assets/Projects/portfolio.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/suicide.png";
+import bitsOfCode from "../../Assets/Projects/SudeepAcharjee.png";
 
 function Projects() {
   return (
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Portfolio"
-              description="Portfolio Web App: A dynamic GitHub repository showcasing a personalized web application for creating and managing professional portfolios. Tailored for individuals and creatives, it features an intuitive interface, customizable templates, and seamless integration to highlight skills, projects, and achievements in a visually compelling manner"
+              description="A dynamic GitHub repository showcasing a personalized web application for creating and managing professional portfolios.It features an intuitive interface, customizable templates, and seamless integration to highlight skills, projects, and achievements in a visually compelling manner"
               ghLink="https://github.com/SudeepAcharjee/Portfolio"
               demoLink="https://sudeep-acharjee.netlify.app/"
             />
