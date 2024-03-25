@@ -39,7 +39,7 @@ function Projects() {
               title="Portfolio"
               description="A dynamic GitHub repository showcasing a personalized web application for creating and managing professional portfolios.It features an intuitive interface, customizable templates, and seamless integration to highlight skills, projects, and achievements in a visually compelling manner"
               ghLink="https://github.com/superman030129/Portfolio"
-              demoLink="https://sudeep-acharjee.netlify.app/"
+              demoLink="https://super-man.netlify.app/"
             />
           </Col>
 
