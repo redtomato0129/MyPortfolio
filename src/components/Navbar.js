@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-          <p>Sudeep</p>
+          <p>Super</p>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
