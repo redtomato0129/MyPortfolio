@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/SudeepAcharjee"
+                  href="https://github.com/superman030129"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/SudeepAcharjee5?t=3jOJCp4-AcDA_hnXd1k8DQ&s=09"
+                  href="https://twitter.com/superman0301295?t=3jOJCp4-AcDA_hnXd1k8DQ&s=09"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/SudeepAcharjee5/"
+                  href="https://www.linkedin.com/in/superman0301295/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sudeep Acharjee</h3>
+          <h3>Designed and Developed by Herbert Bazan</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} </h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/SudeepAcharjee"
+                href="https://github.com/superman030129"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/SudeepAcharjee5"
+                href="https://twitter.com/superman0301295"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/SudeepAcharjee5/"
+                href="https://www.linkedin.com/in/superman0301295/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
