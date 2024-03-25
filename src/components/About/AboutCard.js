@@ -34,7 +34,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Use your brain as a processor!"{" "}
           </p>
-          <footer className="blockquote-footer">Sudeep</footer>
+          <footer className="blockquote-footer">Super</footer>
         </blockquote>
       </Card.Body>
     </Card>
