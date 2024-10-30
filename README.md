@@ -12,8 +12,6 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://super-man-live.netlify.app" target="_blank">Herbert Bazan</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
 This project was built using these technologies.
 
 - React.js
